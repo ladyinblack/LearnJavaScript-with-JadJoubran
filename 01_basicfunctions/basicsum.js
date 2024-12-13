@@ -1,4 +1,6 @@
 /**
+ * Complete the function sum such that it returns the sum of a and b.
+ * 
  * @param {number} a 
  * @param {number} b
  */
